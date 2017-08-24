@@ -1,0 +1,143 @@
+[
+{	"Country" : "Afghanistan",
+	"Rural_population" : "717577975",	"Urban_population" : "169979777"
+},
+{	"Country" : "Armenia",
+	"Rural_population" : "58298093",	"Urban_population" : "102484812"
+},
+{	"Country" : "Azerbaijan",
+	"Rural_population" : "177808225",	"Urban_population" : "196402435"
+},
+{	"Country" : "Bahrain",
+	"Rural_population" : "3685556",	"Urban_population" : "26038540"
+},
+{	"Country" : "Bangladesh",
+	"Rural_population" : "4405498187",	"Urban_population" : "1143763275"
+},
+{	"Country" : "Bhutan",
+	"Rural_population" : "20649328",	"Urban_population" : "5337746"
+},
+{	"Country" : "Brunei Darussalam",
+	"Rural_population" : "4277410",	"Urban_population" : "9044908"
+},
+{	"Country" : "Cambodia",
+	"Rural_population" : "437579770",	"Urban_population" : "85975608"
+},
+{	"Country" : "China",
+	"Rural_population" : "40529166881",	"Urban_population" : "17816288119"
+},
+{	"Country" : "Georgia",
+	"Rural_population" : "116735486",	"Urban_population" : "124335364"
+},
+{	"Country" : "Hong Kong SAR, China",
+	"Rural_population" : "12527416",	"Urban_population" : "285826489"
+},
+{	"Country" : "India",
+	"Rural_population" : "34079163199",	"Urban_population" : "11943874398"
+},
+{	"Country" : "Indonesia",
+	"Rural_population" : "6168432442",	"Urban_population" : "3189428789"
+},
+{	"Country" : "Iran, Islamic Rep.",
+	"Rural_population" : "1128766592",	"Urban_population" : "1588761763"
+},
+{	"Country" : "Iraq",
+	"Rural_population" : "331713379",	"Urban_population" : "651890798"
+},
+{	"Country" : "Israel",
+	"Rural_population" : "27829998",	"Urban_population" : "236036722"
+},
+{	"Country" : "Japan",
+	"Rural_population" : "1401613386",	"Urban_population" : "5053007373"
+},
+{	"Country" : "Jordan",
+	"Rural_population" : "46059688",	"Urban_population" : "134790953"
+},
+{	"Country" : "Kazakhstan",
+	"Rural_population" : "370560302",	"Urban_population" : "426607741"
+},
+{	"Country" : "Korea, Dem. Rep.",
+	"Rural_population" : "450637443",	"Urban_population" : "596697786"
+},
+{	"Country" : "Korea, Rep.",
+	"Rural_population" : "754751442",	"Urban_population" : "1461705485"
+},
+{	"Country" : "Kuwait",
+	"Rural_population" : "3376000",	"Urban_population" : "81361006"
+},
+{	"Country" : "Kyrgyz Republic",
+	"Rural_population" : "141324636",	"Urban_population" : "81484564"
+},
+{	"Country" : "Lao PDR",
+	"Rural_population" : "181639767",	"Urban_population" : "45701216"
+},
+{	"Country" : "Lebanon",
+	"Rural_population" : "36718570",	"Urban_population" : "125312928"
+},
+{	"Country" : "Macao SAR, China",
+	"Rural_population" : "159921",	"Urban_population" : "18722573"
+},
+{	"Country" : "Malaysia",
+	"Rural_population" : "445042442",	"Urban_population" : "533080240"
+},
+{	"Country" : "Maldives",
+	"Rural_population" : "8509982",	"Urban_population" : "3348059"
+},
+{	"Country" : "Mongolia",
+	"Rural_population" : "46278644",	"Urban_population" : "60439182"
+},
+{	"Country" : "Myanmar",
+	"Rural_population" : "1571170268",	"Urban_population" : "555678714"
+},
+{	"Country" : "Nepal",
+	"Rural_population" : "899624230",	"Urban_population" : "107538479"
+},
+{	"Country" : "Oman",
+	"Rural_population" : "33754957",	"Urban_population" : "59377292"
+},
+{	"Country" : "Pakistan",
+	"Rural_population" : "3892908378",	"Urban_population" : "1803133102"
+},
+{	"Country" : "Philippines",
+	"Rural_population" : "1855911828",	"Urban_population" : "1416103726"
+},
+{	"Country" : "Qatar",
+	"Rural_population" : "1194231",	"Urban_population" : "28880979"
+},
+{	"Country" : "Saudi Arabia",
+	"Rural_population" : "209030449",	"Urban_population" : "619421076"
+},
+{	"Country" : "Singapore",
+	"Rural_population" : "0",	"Urban_population" : "173168000"
+},
+{	"Country" : "Sri Lanka",
+	"Rural_population" : "717967617",	"Urban_population" : "163169383"
+},
+{	"Country" : "Syrian Arab Republic",
+	"Rural_population" : "329513788",	"Urban_population" : "334410736"
+},
+{	"Country" : "Tajikistan",
+	"Rural_population" : "186988051",	"Urban_population" : "80615705"
+},
+{	"Country" : "Thailand",
+	"Rural_population" : "1943695485",	"Urban_population" : "883462480"
+},
+{	"Country" : "Turkey",
+	"Rural_population" : "1210076428",	"Urban_population" : "1595144255"
+},
+{	"Country" : "Turkmenistan",
+	"Rural_population" : "100944307",	"Urban_population" : "88743058"
+},
+{	"Country" : "United Arab Emirates",
+	"Rural_population" : "24092275",	"Urban_population" : "110860648"
+},
+{	"Country" : "Uzbekistan",
+	"Rural_population" : "654157807",	"Urban_population" : "399237620"
+},
+{	"Country" : "Vietnam",
+	"Rural_population" : "2634148732",	"Urban_population" : "785888268"
+},
+{	"Country" : "Yemen, Rep.",
+	"Rural_population" : "527408289",	"Urban_population" : "168237839"
+}
+]
