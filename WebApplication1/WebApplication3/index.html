@@ -107,6 +107,8 @@
             svg.append("g")
                 .attr("class", "axis")
                 .call(yAxis);
+
+
             var legend = svg.selectAll(".legend")
                 .data(xData.slice())
                 .enter().append("g")

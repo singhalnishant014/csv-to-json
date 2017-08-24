@@ -55,6 +55,3 @@ C:\Users\Training\source\repos\WebApplication1\WebApplication2\obj\Debug\WebAppl
 C:\Users\Training\source\repos\WebApplication1\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Users\Training\source\repos\WebApplication1\WebApplication2\obj\Debug\WebApplication2.pdb
 C:\Users\Training\source\repos\WebApplication1\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
-C:\Users\Training\source\repos\WebApplication1\WebApplication2\bin\WebApplication1.dll
-C:\Users\Training\source\repos\WebApplication1\WebApplication2\bin\WebApplication1.pdb
-C:\Users\Training\source\repos\WebApplication1\WebApplication2\bin\WebApplication1.dll.config

@@ -7,6 +7,13 @@
         fill: none;
         stroke: steelblue;
         stroke-width: 2px;
+        color: steelblue;
+    }
+    .line1 {
+        color: red;
+        fill: none;
+        stroke: red;
+        stroke-width: 2px;
     }
 </style>
 <body>
@@ -76,7 +83,7 @@
             // Add the valueline path.
             svg.append("path")
                 .data([data])
-                .attr("class", "line")
+                .attr("class", "line1")
                 .attr("d", valueline2);
             // Add the X Axis
             svg.append("g")
@@ -86,6 +93,9 @@
             // Add the Y Axis
             svg.append("g")
                 .call(d3.axisLeft(y));
+
+
+           
         }
         // Get the data
         d3.json("temp.json", function (error, data) {
@@ -96,4 +106,7 @@
         });
 
     </script>
+
+    <p class="line">Rural population (% of total population)</p>
+    <p class="line1">Urban population (% of total)</p>
 </body>
